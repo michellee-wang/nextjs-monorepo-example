@@ -1,8 +1,11 @@
 {
-  "projectId": "prj_qp4c3873oge0fd6f559ywvyd",
+  "defaultLocale": "en",
   "locales": [
     "en",
-    "es"
+    "es",
+    "fr",
   ],
-  "defaultLocale": "en",
+  "projectId": "d6d28a6a-1198-48eb-9bc3-24ffee0f949e",
+  "framework": "next-app",
+  "_versionId": "e9b735de656a43e7ff3b74b3bb9426b91eaa200ffbd63ce2991b0f119718193c"
 }
